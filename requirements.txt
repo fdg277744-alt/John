@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+cloudscraper
+beautifulsoup4
+Telebot
+Flask
